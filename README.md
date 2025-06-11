@@ -85,6 +85,14 @@ As social commerce channels like TikTok Shop and Instagram Shopping emerge, it�
 - Insights on high- and low-value customer behavior
 - Actionable recommendations for content and platform strategy
 
+- ### 🔍 Traditional E-Commerce Analysis Summary
+
+- ✅ Funnel metrics reveal that most drop-offs occur between product views and cart additions (20.3% conversion).
+- ✅ High-value users act faster and more consistently, making them prime targets for retention strategies.
+- ✅ Engagement is quick at the viewing stage but slows before purchase, indicating a need for better early-funnel optimization.
+- ✅ Behavior segments help isolate profitable vs. loss-making user patterns.
+
+
 ---
 
 ## Business Impact
