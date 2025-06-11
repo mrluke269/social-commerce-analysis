@@ -16,7 +16,6 @@ As social commerce channels like TikTok Shop and Instagram Shopping emerge, it�
 > Compare overall engagement behavior across traditional e-commerce and social platforms.
 
 - Measure how customers interact on e-commerce websites (views, clicks, purchases) vs. social media (likes, replies, comments).
-- Quantify how “shoppers” and “scrollers” behave differently across platforms.
 - Visualize engagement structure differences.
 
 ### 2. Audience Behavior Insights
