@@ -32,6 +32,15 @@ The dataset presents 276 features of 112,610 users.
 - Build a classifier to prioritize big spenders.
 - Build a model to identify users likely to stop purchasing.
 
+---
+
+### Key Insights
+- Funnel leak is largest at the view → cart stage.
+- High-value users take more time, yet are more deliberate and profitable.
+- Power buyers are only 20%, but drive 84% of total revenue.
+- Engagement ratios like cart/view and session ratio are leading indicators of value.
+- Predictive models enable early targeting and churn prevention.
+
 
 ## Datasets Used
 
@@ -44,15 +53,14 @@ REES46 Customer Model | 112K+ rows of user-level behavioral features
 ```E-Commerce: Customer Behavior & Engagement Analysis/
 ├── data/
 │   ├── raw/               
-│   ├── processed/          # Cleaned versions
-│   └── external/           # data dictionary
+│   ├── processed/          # Cleaned dataset
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb      
 │   ├── 02_cleaning_featureprep.ipynb  
 │   ├── 03_funnel_analysis.ipynb        
 │   ├── 04_customer_segmentation.ipynb 
 │   ├── 05_modeling.ipynb
-├── visualizations/        # Saved graphs, charts for Power BI
+├── visualizations/ 
 └── README.md
 
 
