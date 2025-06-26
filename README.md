@@ -62,9 +62,10 @@ REES46 Customer Model | 112K+ rows of user-level behavioral features
 │   ├── 05_modeling.ipynb
 ├── visualizations/ 
 └── README.md
-
-
 ```
+## POWER BI DASHBOARD
+![Segmentation & Behavior Analysis](visualizations/Segmentation%20%26%20Behavior%20Analysis.png)
+![Executive Summary](visualizations/Executive%20Summary.png)
 
 ---
 
